@@ -74,9 +74,9 @@ html{
   height: 25rem;
   margin: auto;
   border-radius: 50%;
-  border: 5px solid rgb(107, 30, 30);
-  box-shadow:  inset  -1.3rem -0.3rem 1.5rem #f70909,
-  inset -1.2rem -3rem 0.5rem #832626;
+  border: 10px solid rgb(238, 148, 148);
+  box-shadow:  inset  -1.3rem -0.3rem 0.5rem #c43a3a,
+  inset -1.3rem -0.3rem 0.5rem #832626;
 }
 
 img{
